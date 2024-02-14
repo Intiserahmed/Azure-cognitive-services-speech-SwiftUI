@@ -11,7 +11,7 @@ import SwiftUI
 struct Azure_cognitive_services_speech_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SpeechRecognitionView()
         }
     }
 }

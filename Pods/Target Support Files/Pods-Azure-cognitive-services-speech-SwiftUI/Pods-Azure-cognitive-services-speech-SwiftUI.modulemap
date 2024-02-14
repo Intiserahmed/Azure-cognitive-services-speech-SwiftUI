@@ -1,0 +1,6 @@
+framework module Pods_Azure_cognitive_services_speech_SwiftUI {
+  umbrella header "Pods-Azure-cognitive-services-speech-SwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
